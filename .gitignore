@@ -1,0 +1,4 @@
+
+# Security: ignore env and node_modules
+.env*
+**/.env*
